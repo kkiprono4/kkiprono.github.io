@@ -1953,8 +1953,8 @@ input, select, textarea {
 			text-rendering: auto;
 			line-height: 1;
 			text-transform: none !important;
-			font-family: 'Font Awesome 5 Free';
-			font-weight: 400;
+			font-family: 'Font Awesome\ 5 Free';
+			font-weight: 900;
 		}
 
 		.icon:before {
@@ -1970,7 +1970,7 @@ input, select, textarea {
 		}
 
 		.icon.brands:before {
-			font-family: 'Font Awesome 5 Brands';
+			font-family: 'Font Awesome\ 5 Brands';
 		}
 
 		.icon.featured {
@@ -2443,3 +2443,8 @@ input, select, textarea {
 					}
 
 	}
+	.image{
+		height: 120px;
+		width: 120px;
+	}
+	
